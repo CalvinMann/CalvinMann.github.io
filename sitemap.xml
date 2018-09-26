@@ -18,13 +18,13 @@
   </url>
   
   <url>
-    <loc>localhost:1313/categories/</loc>
+    <loc>localhost:1313/</loc>
+    <lastmod>2017-10-15T03:29:08-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>localhost:1313/</loc>
-    <lastmod>2017-10-15T03:29:08-07:00</lastmod>
+    <loc>localhost:1313/categories/</loc>
     <priority>0</priority>
   </url>
   
